@@ -97,20 +97,10 @@ My work integrates cutting-edge AI models with distributed backend systems using
 
 ## ⚡ Fun Fact
 
-> I combine deep learning, reproducibility science, distributed backend architecture, and ethical AI governance to design **SaaS platforms** inspired by enterprise-grade systems at MIT, Apple AI, OpenAI, and NIH.
+> Love and Peace
 
 ---
 
-<h2 align="center"> 📈 GitHub Stats</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
-</p>
 
 ---
 
