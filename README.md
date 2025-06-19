@@ -12,7 +12,7 @@
 
 I am a **Machine Learning Engineer** and **Backend Software Engineer** specializing in building high-impact scientific SaaS platforms that combine advanced AI systems with robust, scalable backend architectures. My expertise spans full-stack backend development, real-time distributed systems, ML model deployment, and compliance-grade research infrastructures.
 
-I design and build complex platforms for research submissions, peer-review workflows, multi-modal document processing, reviewer recommendation systems, reproducibility pipelines, and scientific audit compliance — inspired by enterprise-grade architectures seen at MIT, Apple AI, OpenAI, and leading Silicon Valley startups.
+I design and build complex platforms for research submissions, peer-review workflows, multi-modal document processing, reviewer recommendation systems, reproducibility pipelines, and scientific audit compliance — inspired by enterprise-grade architectures.
 
 My work integrates cutting-edge AI models with distributed backend systems using **Django, Python, PostgreSQL, Redis, Celery, RabbitMQ, Docker, Angular, Linux**, and **PyTorch, Scikit-Learn, JAX** to deliver production-ready, ethical, reproducible scientific platforms.
 
